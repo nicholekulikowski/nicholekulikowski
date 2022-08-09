@@ -44,8 +44,9 @@ params:
   description: John Doe's personal website
   hideColorSchemeToggle: no
   info:
-    - Full Stack DevOps
-    - Magician
+    - EPA Physical Scientist
+    - Teacher
+    - Sometimes coder
   keywords: blog,developer,personal
   maxSeeAlsoItems: 5
   rtl: no
@@ -53,30 +54,16 @@ params:
   social:
     - icon: fa fa-2x fa-github
       name: Github
-      url: https://github.com/johndoe/
+      url: https://github.com/nicholekulikowski/
       weight: 1
-    - icon: fa fa-2x fa-gitlab
-      name: Gitlab
-      url: https://gitlab.com/johndoe/
-      weight: 2
     - icon: fa fa-2x fa-twitter
       name: Twitter
-      url: https://twitter.com/johndoe/
+      url: https://twitter.com/nkulikow/
       weight: 3
     - icon: fa fa-2x fa-linkedin
       name: LinkedIn
-      url: https://www.linkedin.com/in/johndoe/
+      url: https://www.linkedin.com/in/nicholekulikowski/
       weight: 4
-    - icon: fa fa-2x fa-medium
-      name: Medium
-      url: https://medium.com/@johndoe
-      weight: 5
-    - icon: fa fa-2x fa-rss
-      name: RSS
-      rel: alternate
-      type: application/rss+xml
-      url: https://myhugosite.com/index.xml
-      weight: 6
 taxonomies:
   author: authors
   category: categories
